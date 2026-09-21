@@ -51,14 +51,14 @@ jobs:
           git commit -m "Optimize uploaded images"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v6
-
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
