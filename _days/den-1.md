@@ -1,6 +1,6 @@
 ---
 day: 1
-title: Zkouška
+title: První den jen takový cvičný
 date: 2026-09-21
 from: Bystrc
 to: Hraničky
