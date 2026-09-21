@@ -7,4 +7,6 @@ to: Hraničky
 km: 10
 published: true
 ---
-Hodně dobrý
+Hodně dobrý  
+  
+A tady budeš moct jako zkušený světoběžník, kterým jsi své zážitky z cest a my tě můžeme sledovat.
