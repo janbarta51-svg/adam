@@ -1,0 +1,17 @@
+title: Balažovičovic první túra
+description: Denní zápisky z první pěší túry do Santiaga.
+lang: cs
+
+collections:
+  days:
+    output: false
+
+markdown: kramdown
+baseurl: "/adam"
+
+exclude:
+  - README.md
+  - CHATGPT-PROMPT.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
